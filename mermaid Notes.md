@@ -180,6 +180,11 @@ pie
 
 
 
+参考资料
+[1]
+Mermaid: https://mermaid-js.github.io/mermaid/#/
+[2]
+Typora 使用小技巧 v2.0: https://mp.weixin.qq.com/s/98jYHOsKGkY0JNDficGrmw
 
 
 
